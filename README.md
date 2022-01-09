@@ -6,23 +6,28 @@ This website is targetted towards businesses and individuals that require ecolog
 
 ![Responsive Mockup](Put running link in here)
 
+***
 
-[========]
+## Table of contents
+1. [Features](#features)
+    1. [Existing features](#existing_features)
+    2. [Features left to impliment](#future_features)
+2. [Testing](#testing)
+    1. [Validator testing](#validator_testing)
+    2. [Unfixed bugs](#unfixed_bugs)
+3. [Deployment](#deployment)
+4. [Credits](#credits)
+    1. [Content](#content)
+    2. [Media](#media)
 
+***
 
-**Table of Contents**
-
-[TOCM]
-
-[TOC]
-
-[========]
-
+<a name="features"></a>
 ## Features 
 
 In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
-
-### Existing Features
+<a name="existing_features"></a>
+### Existing Features 
 
 - __Navigation Bar__
 
@@ -75,11 +80,12 @@ In this section, you should go over the different parts of your project, and des
 For some/all of your features, you may choose to reference the specific project files that implement them.
 
 In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
-
-### Features Left to Implement
+<a name="future_features"></a>
+### Features Left to Implement 
 
 - Another feature idea
-
+***
+<a name="testing"></a>
 ## Testing 
 
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
@@ -90,19 +96,20 @@ You should also mention in this section any interesting bugs or problems you dis
 
 If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
-
+<a name="validator_testing"></a>
 ### Validator Testing 
 
 - HTML
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
-
-### Unfixed Bugs
+<a name="unfixed_bugs"></a>
+### Unfixed Bugs 
 
 You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed. 
-
-## Deployment
+***
+<a name="deployment"></a>
+## Deployment 
 
 This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub) 
 
@@ -112,26 +119,26 @@ This section should describe the process you went through to deploy the project 
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
 The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html 
-
-
+***
+<a name="credits"></a>
 ## Credits 
 
 In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
 
 You can break the credits section up into Content and Media, depending on what you have included in your project. 
-
+<a name="content"></a>
 ### Content 
 
 - The text for the Home page was taken from Wikipedia Article A
 - Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
-
+<a name="media"></a>
 ### Media
 
 - The photos used on the home and sign up page are from This Open Source site
 - The images used for the gallery page were taken from this other open source site
 
-
+***
 Congratulations on completing your Readme, you have made another big stride in the direction of being a developer! 
 
 ## Other General Project Advice
