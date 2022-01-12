@@ -4,7 +4,7 @@ Anlief is a leading Welsh ecological consultancy with the goal of providing high
 
 This website is targetted towards businesses and individuals that require ecological assessment for works that may go ahead - this covers a wide variety of potential clients (from large-scale vegetation management buisnesses to landowners wanting a large Oak tree removed). This site will enable potential clients to contact Anlief to organise a survey or service. This easy to use and attractive website aims to encourage clients to reach out and enquire about ecological consultancy for their projects, we aim to make the sometimes confusing and daunting process of asking for ecologcial guidance straight-forward and easily accessible.
 
-![Responsive Mockup](Put running link in here)
+[Responsive Mockup](https://antonia-white.github.io/anlief-ecological-consultancy/)
 
 ***
 
@@ -84,7 +84,9 @@ In addition, you may also use this section to discuss plans for additional featu
 ### Features Left to Implement 
 
 - Another feature idea
+
 ***
+
 <a name="testing"></a>
 ## Testing 
 
@@ -107,7 +109,9 @@ If this section grows too long, you may want to split it off into a separate fil
 ### Unfixed Bugs 
 
 You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed. 
+
 ***
+
 <a name="deployment"></a>
 ## Deployment 
 
@@ -119,7 +123,9 @@ This section should describe the process you went through to deploy the project 
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
 The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html 
+
 ***
+
 <a name="credits"></a>
 ## Credits 
 
@@ -139,6 +145,7 @@ You can break the credits section up into Content and Media, depending on what y
 - The images used for the gallery page were taken from this other open source site
 
 ***
+
 Congratulations on completing your Readme, you have made another big stride in the direction of being a developer! 
 
 ## Other General Project Advice
