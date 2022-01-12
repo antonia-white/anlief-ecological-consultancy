@@ -12,5 +12,70 @@
 </head>
 
 <body>
-Contact Us
+    <article class="container">
+        <h2>Contact Us</h2>
+        <form>
+            <div class="form-group">
+             <label for="exampleInputEmail1">Email address</label>
+             <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email" required>
+             <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+            </div>
+
+            <div class="form-group">
+            <label for="fname">First Name</label>
+            <input type="text" class="form-control" id="fname" placeholder="First Name" required>
+            </div>
+
+            <div class="form-group">
+                <label for="lname">Last Name</label>
+                <input type="text" class="form-control" id="lname" placeholder="Last Name" required>
+            </div>
+
+            <div class="form-check">
+                <input class="form-check-input" type="checkbox" value="survey" id="protected-spec-check">
+                <label class="form-check-label" for="protected-spec-check">
+                  Protected Species Survey
+                </label>
+              </div>
+              <div class="form-check">
+                <input class="form-check-input" type="checkbox" value="survey" id="vegetation-check">
+                <label class="form-check-label" for="vegetation-check">
+                  Vegetation Survey
+                </label>
+              </div>
+              <div class="form-check">
+                <input class="form-check-input" type="checkbox" value="survey" id="tree-check">
+                <label class="form-check-label" for="tree-check">
+                  Tree Survey
+                </label>
+              </div>
+              <div class="form-check">
+                <input class="form-check-input" type="checkbox" value="survey" id="eia-check">
+                <label class="form-check-label" for="eia-check">
+                  Ecological Impact Assessment
+                </label>
+              </div>
+              
+
+            <div class="form-group">
+                <label for="job-description">Please describe in more detail about your project and the ecological services you require</label>
+                <textarea class="form-control" id="job-description" rows="5" placeholder="Description"></textarea>
+            </div>
+
+            <div class="form-group">
+                <label for="exampleFormControlFile1">Upload any site photographs and existing/proposed architectural plans</label>
+                <input type="file" class="form-control-file" id="exampleFormControlFile1">
+                <small id="Upload-help" class="form-text text-muted">
+                    This will help us give a more accurate quotation.
+                </small>
+              </div>
+
+            <div class="form-group form-check">
+            <input type="checkbox" class="form-check-input" id="consent-check" required>
+            <label class="form-check-label" for="consent-check">I consent to being contacted by Anlief</label>
+            </div>
+
+            <button type="submit" class="btn btn-primary" onclick="location.href='/confirmation.html'">Submit</button>
+        </form>
+    </article>
 </body>
