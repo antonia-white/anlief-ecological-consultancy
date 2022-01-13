@@ -1,1 +1,46 @@
-css styling
+html {
+    scroll-behavior: smooth;
+  }
+
+#hero-image{
+    background: url("./media/hero-img.jpg") no-repeat;
+    background-size: contain;
+    height: 3465px;
+    width: 5184px;
+    max-width:100%;
+  }
+
+#hero-outer{
+  height: 600px;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+}
+
+#cover-text, #cover-text h2 {
+    color: #f1eded;
+  }
+
+#cover-text {
+  font-size: 130%;
+  letter-spacing: 3px;
+
+  width:300px;
+  height: 200px;
+
+  padding-top: 40px;
+  padding-left: 10px;
+
+  background-color: rgba(39, 26, 16, 0.733);
+
+  top: 90px;
+  left: 50px;
+
+  position: relative;
+}
+
+/*This doesn't work yet - I want to center the cover-text*/
+@media screen and (max-width: 500px){
+  #cover-text{
+  }
+}
