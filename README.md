@@ -134,6 +134,7 @@ This website has been deployed to Github pages. The live link can be found here 
 - All text is self-written
 - Framework for the navigation component was taken and adapted from [Bootstrap](https://getbootstrap.com/docs/5.1/getting-started/introduction/)
 - Templates for the 'Book Us' page were taken and then adapted from [Bootstrap](https://getbootstrap.com/docs/5.1/getting-started/introduction/)
+- Instructions on how to implement the hero image and cover-text was taken from a [Code Institute Tutorial](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+CSE101+2020_Q2/courseware/be0e510a3aca4bccb6e0bba4cf7cf06b/83c6c94d55f44c79a3646810d80ce7a3/)
 - Instructions on how to implement the map of location feature was taken from Code Institute's tutorial...... []()
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 <a name="media"></a>
