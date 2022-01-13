@@ -33,60 +33,63 @@ This website is targetted towards businesses and individuals that require ecolog
   - Featured on all pages except for the form submission confimation page, the full responsive navigation bar includes links to the Logo, Home page, When You'll Need Us, Meet The Team, Ecological Services, and Book Us page and is identical in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
-![Nav Bar](.png)
+    >![Nav Bar](.png)
 
 - __The landing page image - index.html__
 
   - The landing includes a photograph with text overlay to allow the user to see quotations from previous satisfied clients. 
   - This section introduces the user to Anlief with an attractive image of a natural scene to grab the users attention and give an earthy feel
 
-![Landing Page](.png)
+    >![Landing Page](.png)
 
 - __About Section - index.html__
 
   - The abouts section will give the user an overview of the Anlief company and why they are considered the best Ecological Consultancy in South Wales. 
   - The user will see the value of Anlief and should be encouraged to consider using Anlief for their ecological consultancy needs. 
 
-![About](.png)
+    >![About](.png)
 
 - __Map of Location - index.html__
 
   - This section will show a map of where Anlief is based. 
   - This section will inform users of Anlief's location and is interactive so that users can see how far their project is from Anlief's consultancy team. 
 
-![Map of Location](.png)
+    >![Map of Location](.png)
 
 - __The Footer -*.html__ 
 
   - The footer section includes links to the relevant social media sites for Anlief. The links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media
 
-![Footer](.png)
+    >![Footer](.png)
 
 - __Legislation - legislation.html__
 
   - This page is for clients who have come to the site unsure if they require ecological consulatation services or not. It will also act as a reminder to knowledgeable clients as to their legal ecological obligations when conducting a project. 
   -  This text-heavy page provides key information on the laws surrounding British wildlife and will direct users to what ecological services they require in order to avoid breaking ecological law.
 
-![Legislation](.png)
+      >![Legislation](.png)
 
 - __Meet The Team - team.html__
 
- - This page will give users more information about the ecologists that work at Anlief. Academic and professional information will be provided alongside a picture of the ecologist to give a more personable feel.
- - This page will allow users to check ecologists credentials and will confirm the legitimacy and professionalism of the consultancy.
+  - This page will give users more information about the ecologists that work at Anlief. Academic and professional information will be provided alongside a picture of the ecologist to give a more personable feel.
+  - This page will allow users to check ecologists credentials and will confirm the legitimacy and professionalism of the consultancy.
 
-![Meet The Team](.png)
+    >![Meet The Team](.png)
 
 - __Book Us - form.html__
 
- - This page will allow the user to contact Anlief to recieve a quotation/futher information about their project requirements. The user will be able specify what ecological service they believe they require, a brief description of the project they want to undertake and will also be able to upload files i.e., pictures of project site or blueprints. The user will be required to submit their full name, email address, select an ecological service, and consent to being contacted by Anlief. 
+  - This page will allow the user to contact Anlief to recieve a quotation/futher information about their project requirements. The user will be able specify what ecological service they believe they require, a brief description of the project they want to undertake and will also be able to upload files i.e., pictures of project site or blueprints. The user will be required to submit their full name, email address, select an ecological service, and consent to being contacted by Anlief. 
+
+    >![Book Us](.png)
 
 <a name="future_features"></a>
 ### Features Left to Implement 
 
 - Search bar in navigation
-This component would be particularly useful for clients who already know the ecological service they require and so will easily be able to search for that service to see if Anlief offer it. This component would additionally be useful for users to search through the website for specific laws/legislations that may be applicable to their project and ecological obligations. 
-At this stage in development it is not fundamental, but if there was going to be additional information added about wildlife and ecology in the UK (e.g., list and description of British Protected Species, why they're protected and how to meet legal ecological obligations as to not disturb these animals) then this feature would need to be implemented. Additionally, I do not currently have the skillset in JavaScript to confidently implement this feature.
+  - This component would be particularly useful for clients who already know the ecological service they require and so will easily be able to search for that service to see if Anlief offer it. 
+  - This component would additionally be useful for users to search through the website for specific laws/legislations that may be applicable to their project and ecological obligations. 
+  - At this stage in development it is not fundamental, but if there was going to be additional information added about wildlife and ecology in the UK (e.g., list and description of British Protected Species, why they're protected and how to meet legal ecological obligations as to not disturb these animals) then this feature would need to be implemented. Additionally, I do not currently have the skillset in JavaScript to confidently implement this feature.
 
 ***
 
@@ -136,7 +139,7 @@ This website has been deployed to Github pages. The live link can be found here 
 <a name="media"></a>
 ### Media
 
-- The photo used on the home page are from the open source site [Upslpash](https://unsplash.com/)
-- The images used for the 'Meet The Team' page were taken from...
+- The photo used on the Home page are from the open source site [Upslpash](https://unsplash.com/)
+- The images used for the Meet The Team page were taken from...
 
 ***
