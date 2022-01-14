@@ -4,10 +4,9 @@ html {
 
 #hero-image {
   background: url("../media/hero-img.jpg") no-repeat;
-  background-size: contain;
-  height: 3465px;
-  width: 5184px;
-  max-width: 100%;
+  background-size: cover;
+  height: 35em;
+  background-position: center right;
 }
 
 #hero-outer {
