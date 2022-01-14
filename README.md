@@ -8,24 +8,8 @@ This website is targetted towards businesses and individuals that require ecolog
 
 ***
 
-## Table of contents
-1. [Features](#features)
-    1. [Existing features](#existing_features)
-    2. [Features left to impliment](#future_features)
-2. [Testing](#testing)
-    1. [Validator testing](#validator_testing)
-    2. [Unfixed bugs](#unfixed_bugs)
-3. [Deployment](#deployment)
-4. [Credits](#credits)
-    1. [Content](#content)
-    2. [Media](#media)
-
-***
-
-<a name="features"></a>
 ## Features 
 
-<a name="existing_features"></a>
 ### Existing Features 
 
 - __Navigation Bar - *.html__
@@ -83,7 +67,6 @@ This website is targetted towards businesses and individuals that require ecolog
 
     >![Book Us](.png)
 
-<a name="future_features"></a>
 ### Features Left to Implement 
 
 - Search bar in navigation
@@ -93,7 +76,6 @@ This website is targetted towards businesses and individuals that require ecolog
 
 ***
 
-<a name="testing"></a>
 ## Testing 
 
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
@@ -104,31 +86,40 @@ You should also mention in this section any interesting bugs or problems you dis
 
 If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
-<a name="validator_testing"></a>
 ### Validator Testing 
 
 - HTML
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
-<a name="unfixed_bugs"></a>
+
 ### Unfixed Bugs 
 
 You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed. 
 
 ***
 
-<a name="deployment"></a>
-## Deployment 
+## Deployment
 
-This website has been deployed to Github pages. The live link can be found here - https://antonia-white.github.io/anlief-ecological-consultancy/ 
+The site was deployed to GitHub pages. The steps to deploy are as follows: 
+  - In the [GitHub repository](https://github.com/antonia-white/anlief-ecological-consultancy), navigate to the Settings tab 
+  - From the source section drop-down menu, select the **Main** Branch, then click "Save".
+  - The page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
-***
+The live link can be found [here](https://antonia-white.github.io/anlief-ecological-consultancy/)
 
-<a name="credits"></a>
+### Local Deployment
+
+In order to make a local copy of this project, you can clone it. In your IDE Terminal, type the following command to clone my repository:
+
+- `git clone https://github.com/antonia-white/anlief-ecological-consultancy.git`
+
+Alternatively, if using Gitpod, you can click below to create your own workspace using this repository.
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/antonia-white/anlief-ecological-consultancy)
+
 ## Credits 
 
-<a name="content"></a>
 ### Content 
 
 - All text is self-written
@@ -138,7 +129,7 @@ This website has been deployed to Github pages. The live link can be found here 
 - Instructions on how to implement the hero image and cover-text was taken from a [Code Institute Tutorial](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+CSE101+2020_Q2/courseware/be0e510a3aca4bccb6e0bba4cf7cf06b/83c6c94d55f44c79a3646810d80ce7a3/)
 - Instructions on how to embed a google map of Anleif's location were learnt from [Campus WCMS](https://wcmshelp.ucsc.edu/advanced/embedding-google/google-maps.html)
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
-<a name="media"></a>
+
 ### Media
 
 - The photo used on the Home page are from the open source site [Upsplash](https://unsplash.com/)
