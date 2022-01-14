@@ -141,7 +141,7 @@ This website has been deployed to Github pages. The live link can be found here 
 <a name="media"></a>
 ### Media
 
-- The photo used on the Home page are from the open source site [Upslpash](https://unsplash.com/)
+- The photo used on the Home page are from the open source site [Upsplash](https://unsplash.com/)
 - The images used for the Meet The Team page were taken from...
 
 ***
