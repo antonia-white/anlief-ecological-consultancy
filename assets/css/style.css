@@ -3,7 +3,7 @@ html {
 }
 
 #hero-image {
-  background: url("../media/hero-img.jpg") no-repeat;
+  background: url("../media/compressed_hero-img.jpg") no-repeat;
   background-size: cover;
   height: 35em;
   background-position: center right;
