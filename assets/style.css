@@ -44,3 +44,32 @@ html {
   #cover-text{
   }
 }
+
+/* Source mixin*/
+@mixin make-container($padding-x: $container-padding-x) {
+  width: 100%;
+  padding-right: $padding-x;
+  padding-left: $padding-x;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+/*Usage*/
+.custom-container {
+  @include make-container();
+}
+
+.media-body p{
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 1.5;
+  color: #212529;
+}
+
+.media-body h5{
+  font-family: 'Spline Sans', sans-serif;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #212529;
+}
