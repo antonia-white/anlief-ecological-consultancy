@@ -70,3 +70,25 @@ html {
 #map {
   float: right;
 }
+
+footer{
+  height: 200px;
+  background-color: #f8f9fa;
+  color: rgba(0,0,0,.7);
+}
+
+ul li{
+  text-align: center;
+  display: inline;
+}
+
+ul.text-center {
+  padding-left: 0px;
+  }
+
+.social-networks i {
+  font-size: 200%;
+  margin: 1%;
+  padding: 0;
+  color: rgba(0,0,0,.7);
+}
