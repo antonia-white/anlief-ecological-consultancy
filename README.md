@@ -69,6 +69,10 @@ This website is targetted towards businesses and individuals that require ecolog
 
 ### Features Left to Implement 
 
+- Carousel of quotations on the Home page overlay
+  - This component would allow users to see several positive reactions to our ecology services from previous clients. This would give a user eassurance that Anlief are a professional and competent company.
+  - This feature hasn't yet been implimented as Bootstrap currently does not support nested carousels, and this quotation box is nested within the hero-image. Once I have an understanding of JavaScript this feature will be easier to impliment as I am unable to automate the scroll behaviour to automatically scroll between the quotations.
+
 - Search bar in navigation
   - This component would be particularly useful for clients who already know the ecological service they require and so will easily be able to search for that service to see if Anlief offer it. 
   - This component would additionally be useful for users to search through the website for specific laws/legislations that may be applicable to their project and ecological obligations. 
