@@ -122,7 +122,7 @@ Alternatively, if using Gitpod, you can click below to create your own workspace
 
 ### Content 
 
-- All text is self-written
+- Text content for the 'When You'll Need Us' page was sourced from the [Chartered Institute of Ecology and Environmental Management (CIEEM)](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiI08j61771AhVJasAKHUbeCkUQFnoECAUQAQ&url=https%3A%2F%2Fcieem.net%2Fwp-content%2Fuploads%2F2019%2F02%2FA_Householders_Guide_to_Engaging_an_Ecologist_Jan_2016.pdf&usg=AOvVaw27QZ4sNnf1YrchAxfwxQ6-) and [Ecology by Design](https://www.ecologybydesign.co.uk/ecology-resources/ecology-survey-planning-permission). All other text throughout the website is self-written
 - Framework for the navigation component was taken and adapted from [Bootstrap](https://getbootstrap.com/docs/5.1/getting-started/introduction/)
 - Templates for the 'Book Us' page were taken and then adapted from [Bootstrap](https://getbootstrap.com/docs/5.1/getting-started/introduction/)
 - Framework for the 'Meet The Team' media objects were taken and adapted from [Bootstrap](https://getbootstrap.com/docs/5.1/getting-started/introduction/)
