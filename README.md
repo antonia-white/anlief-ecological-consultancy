@@ -129,7 +129,7 @@ Alternatively, if using Gitpod, you can click below to create your own workspace
 - Instructions on how to implement the hero image and cover-text was taken from a [Code Institute Tutorial](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+CSE101+2020_Q2/courseware/be0e510a3aca4bccb6e0bba4cf7cf06b/83c6c94d55f44c79a3646810d80ce7a3/)
 - Instructions on how to embed a google map of Anleif's location were learnt from [Campus WCMS](https://wcmshelp.ucsc.edu/advanced/embedding-google/google-maps.html)
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
-- Instructions for creating a footer using bootstap were taken from [MDB](https://mdbootstrap.com/docs/b4/jquery/navigation/footer/) and adapted from information taken from a [Code Institute Tutorial](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+CSE101+2020_Q2/courseware/be0e510a3aca4bccb6e0bba4cf7cf06b/cbb28fc16a35417bb73450e0dc71d59b/)
+- Instructions for creating a footer using bootstap were taken from [MDB](https://mdbootstrap.com/docs/b4/jquery/navigation/footer/) and adapted from information taken from a [Code Institute Tutorial](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+CSE101+2020_Q2/courseware/be0e510a3aca4bccb6e0bba4cf7cf06b/cbb28fc16a35417bb73450e0dc71d59b/). This was futher formatted with information taken from [Stack Overflow](https://stackoverflow.com/questions/10099422/flushing-footer-to-bottom-of-the-page-twitter-bootstrap)
 
 ### Media
 
