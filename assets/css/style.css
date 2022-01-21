@@ -139,6 +139,7 @@ div.row:nth-child(3)>div:nth-child(2) {
 
 #services-btn,
 #submit-btn {
+    margin-top: 1rem;
     margin-bottom: 1rem;
 }
 
@@ -152,4 +153,13 @@ legend {
 .lg-lab{ 
     font-size: 1.1rem;
     font-weight: 550;
+}
+
+label > span {
+    color: rgba(131, 14, 14, 0.938);
+}
+
+#required-fields{
+    color:rgba(131, 14, 14, 0.938);
+    text-indent: 1.3rem;
 }
