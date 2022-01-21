@@ -4,9 +4,30 @@ Anlief is a leading Welsh ecological consultancy with the goal of providing high
 
 This website is targetted towards businesses and individuals that require ecological assessment for works that may go ahead - this covers a wide variety of potential clients (from large-scale vegetation management buisnesses to landowners wanting a large Oak tree removed). This site will enable potential clients to contact Anlief to organise a survey or service. This easy to use and attractive website aims to encourage clients to reach out and enquire about ecological consultancy for their projects, we aim to make the sometimes confusing and daunting process of asking for ecologcial guidance straight-forward and easily accessible.
 
-[Responsive Mockup](https://antonia-white.github.io/anlief-ecological-consultancy/)
+![Responsive Mockup](https://antonia-white.github.io/anlief-ecological-consultancy/)
+Image source == http://ami.responsivedesign.is/# --> have screens display different pages
+make sure to credit
 
 ***
+
+## User Stories
+
+- As a user I want to ............ (features - navbar)
+- feature..?
+- Contact
+- Meet the team
+
+## UX
+
+### Colour Scheme
+Explain colour scheme coolors.co --> website visualises colour scheme
+
+### Typography
+Explain fonts and font awesome. Put link to respective google fonts and link to font awesome
+
+### Wireframes
+![index](screenshot of index wireframe here)
+...
 
 ## Features 
 
@@ -17,7 +38,7 @@ This website is targetted towards businesses and individuals that require ecolog
   - Featured on all pages except for the form submission confimation page, the full responsive navigation bar includes links to the Logo, Home page, When You'll Need Us, Meet The Team, Ecological Services, and Book Us page and is identical in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
-    >![Nav Bar](.png)
+    >![Nav Bar]()
 
 - __The landing page image - index.html__
 
@@ -80,28 +101,21 @@ This website is targetted towards businesses and individuals that require ecolog
 
 ***
 
-## Testing 
+## Technologies
+List bullet points all technologies used - link to expalin what theyre used for
+[HTML] (link to wiki) - markup lang
+CSS (same) - styles
+GitPod - cloud based iDE
+GitHub - secure online
+GitHub Pages (link deployed site)
+Git (https://git-scm.com/) - version control
+Am I Responsive - mockup img
+Bootstrap - layout and responsive components
+Dev Tools - testing and responsiveness
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+## Testing
 
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
-
-### Validator Testing 
-
-- HTML
-  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
-- CSS
-  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
-
-### Unfixed Bugs 
-
-You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed. 
-
-***
+To view all testing documentation, refer to [TESTING.md](TESTING.md).
 
 ## Deployment
 
