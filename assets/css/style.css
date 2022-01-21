@@ -1,170 +1,142 @@
 html {
-  scroll-behavior: smooth;
+    scroll-behavior: smooth;
 }
 
 #hero-image {
-  background: url("../media/compressed_hero-img.jpg") no-repeat;
-  background-size: cover;
-  height: 35em;
-  background-position: center right;
+    background: url("../media/compressed_hero-img.jpg") no-repeat;
+    background-size: cover;
+    height: 35em;
+    background-position: center right;
 }
 
 #hero-outer {
-  height: fit-content;
-  width: 100%;
-  overflow: hidden;
-  position: relative;
-  padding-bottom: 2rem;
+    height: fit-content;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    padding-bottom: 2rem;
 }
 
 #cover-text,
 #cover-text h2 {
-  color: #f1eded;
+    color: #f1eded;
 }
 
 #cover-text {
-  font-size: 130%;
-  letter-spacing: 3px;
-
-  width: 300px;
-  height: 200px;
-
-  padding-top: 40px;
-  padding-left: 10px;
-
-  background-color: rgba(39, 26, 16, 0.733);
-
-  top: 90px;
-  left: 50px;
-
-  position: relative;
+    font-size: 130%;
+    letter-spacing: 3px;
+    width: 300px;
+    height: 200px;
+    padding-top: 40px;
+    padding-left: 10px;
+    background-color: rgba(39, 26, 16, 0.733);
+    top: 90px;
+    left: 50px;
+    position: relative;
 }
 
 /*This doesn't work yet - I want to center the cover-text*/
 @media screen and (max-width: 500px) {
-  #cover-text {}
+    #cover-text {}
 }
 
 #map {
-  margin-left: 1rem;
-  margin-top: 1.5rem;
+    margin-left: 1rem;
+    margin-top: 1.5rem;
 }
 
 .media-body p {
-  font-size: 1.5rem;
-  font-weight: 300;
-  line-height: 1.5;
-  color: #212529;
-  text-align: justify;
+    font-size: 1.5rem;
+    font-weight: 300;
+    line-height: 1.5;
+    color: #212529;
+    text-align: justify;
 }
 
 .media-body h5 {
-  font-family: 'Spline Sans', sans-serif;
-  font-size: 2rem;
-  font-weight: 500;
-  line-height: 1.5;
-  color: #212529;
+    font-family: 'Spline Sans', sans-serif;
+    font-size: 2rem;
+    font-weight: 500;
+    line-height: 1.5;
+    color: #212529;
 }
 
 .media-body {
-  padding-bottom: 20px;
+    padding-bottom: 20px;
 }
 
 ul li {
-  text-align: center;
-  display: inline;
+    text-align: center;
+    display: inline;
 }
 
 ul.text-center {
-  padding-left: 0px;
+    padding-left: 0px;
 }
 
 .social-networks i {
-  font-size: 200%;
-  margin: 1%;
-  padding: 0;
-  color: rgba(0, 0, 0, .7);
+    font-size: 200%;
+    margin: 1%;
+    padding: 0;
+    color: rgba(0, 0, 0, .7);
 }
 
 #logo {
-  font-family: "Satisfy", cursive;
-  font-weight: bold;
-  font-size: xx-large;
-  color: #2C3D17;
+    font-family: "Satisfy", cursive;
+    font-weight: bold;
+    font-size: xx-large;
+    color: #2C3D17;
 }
 
 html,
 body {
-  height: 100%;
+    height: 100%;
 }
 
 /* Wrapper for page content to push down footer */
 #wrap {
-  min-height: 100%;
-  height: auto !important;
-  height: 100%;
-  /* Negative indent footer by it's height */
-  margin: 0 auto -30px;
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+    /* Negative indent footer by it's height */
+    margin: 0 auto -30px;
 }
 
 /* Push footer down */
 #push {
-  height: 20px;
+    height: 20px;
 }
 
 #footer {
-  background-color: #f6fbee;
-  color: rgba(0, 0, 0, .7);
+    background-color: #f6fbee;
+    color: rgba(0, 0, 0, .7);
 }
-
-/* Responsive footer */
-@media (max-width: 767px) {
-  footer {
-    margin-left: -20px;
-    margin-right: -20px;
-    padding-left: 20px;
-    padding-right: 20px;
-  }
-}
-
 
 body p {
-  font-size: 1.5rem;
-  font-weight: 300;
-  line-height: 1.5;
-  color: #212529;
-  text-align: justify;
+    font-size: 1.5rem;
+    font-weight: 300;
+    line-height: 1.5;
+    color: #212529;
+    text-align: justify;
 }
 
 body h5 {
-  font-family: 'Spline Sans', sans-serif;
-  font-size: 2rem;
-  font-weight: 500;
-  line-height: 1.5;
-  color: #212529;
+    font-family: 'Spline Sans', sans-serif;
+    font-size: 2rem;
+    font-weight: 500;
+    line-height: 1.5;
+    color: #212529;
 }
 
 /* Add spacing to services cards */
-div.row:nth-child(2)>div:nth-child(1) {
-  padding-bottom: 1rem;
-  padding-top: 1rem;
-}
-
-div.row:nth-child(2)>div:nth-child(2) {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-}
-
-div.row:nth-child(3)>div:nth-child(1) {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-}
-
+div.row:nth-child(2)>div:nth-child(1),
+div.row:nth-child(2)>div:nth-child(2),
+div.row:nth-child(3)>div:nth-child(1),
 div.row:nth-child(3)>div:nth-child(2) {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
 }
 
-#services-btn{
-  margin-bottom: 1rem;
+#services-btn {
+    margin-bottom: 1rem;
 }
