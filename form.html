@@ -64,10 +64,10 @@
       <!-- Name -->
       <div class="row">
         <div class="col">
-          <input type="text" class="form-control" placeholder="First name">
+          <input type="text" class="form-control" placeholder="First name" required>
         </div>
         <div class="col">
-          <input type="text" class="form-control" placeholder="Last name">
+          <input type="text" class="form-control" placeholder="Last name" required>
         </div>
       </div>
       <!-- Email -->
@@ -79,25 +79,25 @@
       </div>
       <!-- Survey Type -->
       <div class="form-check">
-        <input class="form-check-input" type="checkbox" value="survey" id="protected-spec-check">
+        <input class="form-check-input" type="checkbox" value="survey" name="survey-type" id="protected-spec-check">
         <label class="form-check-label" for="protected-spec-check">
           Protected Species Survey
         </label>
       </div>
       <div class="form-check">
-        <input class="form-check-input" type="checkbox" value="survey" id="vegetation-check">
+        <input class="form-check-input" type="checkbox" value="survey" name="survey-type" id="vegetation-check">
         <label class="form-check-label" for="vegetation-check">
           Vegetation Survey
         </label>
       </div>
       <div class="form-check">
-        <input class="form-check-input" type="checkbox" value="survey" id="tree-check">
+        <input class="form-check-input" type="checkbox" value="survey" name="survey-type" id="tree-check">
         <label class="form-check-label" for="tree-check">
           Tree Survey
         </label>
       </div>
       <div class="form-check">
-        <input class="form-check-input" type="checkbox" value="survey" id="eia-check">
+        <input class="form-check-input" type="checkbox" value="survey" name="survey-type" id="eia-check">
         <label class="form-check-label" for="eia-check">
           Ecological Impact Assessment
         </label>
@@ -106,7 +106,7 @@
       <div class="form-group">
         <label for="job-description">Please describe in more detail about your project and the ecological services you
           require</label>
-        <textarea class="form-control" id="job-description" rows="5" placeholder="Description"></textarea>
+        <textarea class="form-control" id="job-description" rows="5" placeholder="Description" required></textarea>
       </div>
       <!-- Upload files -->
       <div class="form-group">
