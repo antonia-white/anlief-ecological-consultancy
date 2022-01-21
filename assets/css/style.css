@@ -164,3 +164,7 @@ div.row:nth-child(3)>div:nth-child(2) {
   padding-top: 1rem;
   padding-bottom: 1rem;
 }
+
+#services-btn{
+  margin-bottom: 1rem;
+}
