@@ -153,6 +153,7 @@ Alternatively, if using Gitpod, you can click below to create your own workspace
 
 - The photo used on the Home page are from the open source site [Upsplash](https://unsplash.com/)
 - The images used for the headshots on the Meet The Team page were taken from the open source site [Pexels](https://www.pexels.com/)
+- Media images used were cropped to size with [Safeimagekit](https://safeimagekit.com/)
 - The favicon image is from the open source site [Favicon.io](https://favicon.io/emoji-favicons/herb)
 
 ***
