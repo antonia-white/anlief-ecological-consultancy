@@ -22,7 +22,8 @@ This website is targetted towards businesses and individuals that require ecolog
 ***
 
 ### Colour Scheme
-<!-- Explain colour scheme coolors.co website visualises colour scheme -->
+- For Anlief's website a natural colour palette was selected due to the strong links between the company and nature and the outdoors. Naturally dulled colours were selected to give a more earthy feel to the website, this included shades of brown, green and grey.
+    >![colour palette](documentation/testing/color-palette.png)
 - No accessibility issues were returned when passing the colour scheme through the official [WebAIM](https://webaim.org/resources/contrastchecker/)
     >![webaim screenshot](documentation/testing/webaim-screenshot.png)
 
@@ -120,7 +121,7 @@ This website is targetted towards businesses and individuals that require ecolog
 - [HTML](https://en.wikipedia.org/wiki/HTML) was used as the markup language
 - [CSS](https://en.wikipedia.org/wiki/CSS) was used for styles
 - [GitPod](https://gitpod.io) was used as a cloud based iDE
-- [GitHub](https://github.com/) was used for an online repository
+- [GitHub](https://github.com/) was used to manage the Git repository
 - [GitHub Pages](https://antonia-white.github.io/anlief-ecological-consultancy/) was used for deployment
 - [Git](https://git-scm.com/) was used for version control
 - [Am I Responsive](http://ami.responsivedesign.is/) was used to generate a mockup image
@@ -183,5 +184,6 @@ Alternatively, if using Gitpod, you can click below to create your own workspace
 - Media images used in the Ecological Services page were resized and cropped with [ResizePixel](https://www.resizepixel.com/)
 - The favicon image is from the open source site [Favicon.io](https://favicon.io/emoji-favicons/herb)
 - The responsive mockup was generated with [Am I Responsive Design](http://ami.responsivedesign.is/#)
+- The colour palette was generated with [Coolors](https://coolors.co/)
 
 ***
