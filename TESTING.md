@@ -6,7 +6,7 @@
 
 At the time of testing (18:00 22/01/2022) [W3C's markup validator](https://validator.w3.org/) was down.
 
-    >![W3C's down markup validator](documentation/testing/w3c-down.png)
+  >![W3C's down markup validator](documentation/testing/w3c-down.png)
 
 And so [FreeFormatter](https://www.freeformatter.com/html-validator.html) was used as a HTML Validator instead.
 
@@ -36,9 +36,8 @@ And so [FreeFormatter](https://www.freeformatter.com/html-validator.html) was us
     >![confirmation.html](documentation/testing/ff-html-confirmation-screenshot.png)
 
 - CSS
-  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
-  https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fantonia-white.github.io%2Fanlief-ecological-consultancy
-
+  - No errors were found when passing through the official [Jigsaw validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fantonia-white.github.io%2Fanlief-ecological-consultancy)
+  
     >![style.css](documentation/testing/w3c-css-validator-screenshot.png)
 
 ***
@@ -65,7 +64,7 @@ To the best of my knowledge, there are no unfixed-bugs.
 
 ***
 
-## Responsivness
+## Responsiveness
 
 - Website viewed in a mobile device:
 
@@ -84,24 +83,24 @@ To the best of my knowledge, there are no unfixed-bugs.
 
 ## User Story Testing
 
-A target user of Anlief's website, will want to:
+A target user of Anlief's website will want to:
     1. navigate through the website and it's pages easily and fluidly
-      >![Nav Bar](documentation/testing/navbar-screenshot.png)
+  >![Nav Bar](documentation/testing/navbar-screenshot.png)
     2. know where Anlief is based
-      >![Map of Location](documentation/testing/map-screenshot.png)
+  >![Map of Location](documentation/testing/map-screenshot.png)
     3. know more about the company and what their aims are
-      >![About](documentation/testing/about-section-screenshot.png)
+  >![About](documentation/testing/about-section-screenshot.png)
     4. visit an attractive website for an enjoyable experience
-      >![Landing Page](documentation/testing/landing-page-img-screenshot.png)
+  >![Landing Page](documentation/testing/landing-page-img-screenshot.png)
     5. know if Anlief is a respectable company
-      >![Landing Page](documentation/testing/landing-page-img-screenshot.png)
+  >![Landing Page](documentation/testing/landing-page-img-screenshot.png)
     6. have information that informs me of when and why I might need a ecologist
-      >![Legislation](documentation/testing/legislation-screenshot.png)
+  >![Legislation](documentation/testing/legislation-screenshot.png)
     7. be shown what ecological services anlief provide
-      >![Ecological Services](documentation/testing/ecology-services-screenshot.png)
+  >![Ecological Services](documentation/testing/ecology-services-screenshot.png)
     8. be able to easily contact an ecologist
-      >![Book Us](documentation/testing/form-screenshot.png)
+  >![Book Us](documentation/testing/form-screenshot.png)
     9. see who works for Anlief and look at their credentials
-      >![Meet The Team](documentation/testing/meet-the-team-screenshot.png)
+  >![Meet The Team](documentation/testing/meet-the-team-screenshot.png)
 
 ***
