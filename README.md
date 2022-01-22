@@ -32,7 +32,14 @@ As a user of Anlief's website, I want to:
     >![webaim screenshot](documentation/testing/webaim-screenshot.png)
 
 ### Typography
-<!-- Explain fonts and font awesome. Put link to respective google fonts and link to font awesome -->
+
+- Font Awesome
+  - Social media icons were taken from [Font Awesome](https://fontawesome.com/) for use in the footer. Clicking these icons will open a new tab and take a user to Anlief's corresponding social media profile. Using Font Awesome icons adds a professional styling to the footer
+
+- Google Fonts
+  Font styles were taken from the open source [Google Fonts](https://fonts.google.com/)
+  - The typography for Anlief's logo is font-family [Satisfy](https://fonts.google.com/specimen/Satisfy?query=satisfy). This brush script style was used as the cursive yet bold look is eyecatching and stands out from other text styles on the website. 
+  - The typography for the body of the website is font-family [Spline Sans](https://fonts.google.com/specimen/Spline+Sans?query=spline). This font is suitable for a professional feel and fits the target audience of professional adults seeking a service. The script is well spaced and easy to read.
 
 ***
 
