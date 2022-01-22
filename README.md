@@ -12,11 +12,11 @@ This website is targeted towards businesses and individuals that require ecologi
 
 As a user of Anlief's website, I want to:
     1. navigate through the website and its pages easily and fluidly
-    2. know where Anlief is based
-    3. know more about the company and what their aims are
+    2. learn where Anlief is based
+    3. learn more about the company and what their aims are
     4. visit an attractive website for an enjoyable experience
-    5. know if Anlief is a respectable company
-    6. know when and why I might need a ecologist
+    5. learn if Anlief is a respectable company
+    6. learn when and why I might need a ecologist
     7. be shown what ecological services Anlief provide
     8. be able to easily contact an ecologist
     9. see who works for Anlief and look at their credentials
