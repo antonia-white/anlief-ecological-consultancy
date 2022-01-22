@@ -155,7 +155,7 @@ label>span {
     }
 }
 
-@media screen and (max-width: 991px) {
+@media screen and (min-width: 767px) and (max-width: 991px) {
     #map {
         margin-left: 9rem;
     }
