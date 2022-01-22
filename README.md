@@ -17,17 +17,28 @@ make sure to credit
 - Contact
 - Meet the team
 
+***
+
 ## UX
+
+***
 
 ### Colour Scheme
 Explain colour scheme coolors.co --> website visualises colour scheme
+- No accessibility issues were returned when passing the colour scheme through the official [WebAIM](https://webaim.org/resources/contrastchecker/)
+    >![webaim screenshot](documentation/testing/webaim-screenshot.png)
 
 ### Typography
 Explain fonts and font awesome. Put link to respective google fonts and link to font awesome
 
+***
+
 ### Wireframes
-![index](screenshot of index wireframe here)
-...
+![home page desktop wireframe](documentation/wireframes/anlief_desktop_wireframe_home.png)
+![home page mobile wireframe](documentation/wireframes/anlief_mobile_wireframe_home.png)
+![internal link structure wireframe](documentation/wireframes/anlief_internal_link_structure_wireframe.png)
+
+***
 
 ## Features 
 
@@ -38,55 +49,55 @@ Explain fonts and font awesome. Put link to respective google fonts and link to 
   - Featured on all pages except for the form submission confimation page, the full responsive navigation bar includes links to the Logo, Home page, When You'll Need Us, Meet The Team, Ecological Services, and Book Us page and is identical in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
-    >![Nav Bar]()
+    >![Nav Bar](documentation/testing/navbar-screenshot.png)
 
 - __The landing page image - index.html__
 
   - The landing includes a photograph with text overlay to allow the user to see quotations from previous satisfied clients. 
   - This section introduces the user to Anlief with an attractive image of a natural scene to grab the users attention and give an earthy feel
 
-    >![Landing Page](.png)
+    >![Landing Page](documentation/testing/landing-page-img-screenshot.png)
 
 - __About Section - index.html__
 
   - The abouts section will give the user an overview of the Anlief company and why they are considered the best Ecological Consultancy in South Wales. 
   - The user will see the value of Anlief and should be encouraged to consider using Anlief for their ecological consultancy needs. 
 
-    >![About](.png)
+    >![About](documentation/testing/about-section-screenshot.png)
 
 - __Map of Location - index.html__
 
   - This section will show a map of where Anlief is based. 
   - This section will inform users of Anlief's location and is interactive so that users can see how far their project is from Anlief's consultancy team. 
 
-    >![Map of Location](.png)
+    >![Map of Location](documentation/testing/map-screenshot.png)
 
 - __The Footer -*.html__ 
 
   - The footer section includes links to the relevant social media sites for Anlief. The links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media
 
-    >![Footer](.png)
+    >![Footer](documentation/testing/footer-screenshot.png)
 
 - __Legislation - legislation.html__
 
   - This page is for clients who have come to the site unsure if they require ecological consulatation services or not. It will also act as a reminder to knowledgeable clients as to their legal ecological obligations when conducting a project. 
   -  This text-heavy page provides key information on the laws surrounding British wildlife and will direct users to what ecological services they require in order to avoid breaking ecological law.
 
-      >![Legislation](.png)
+      >![Legislation](documentation/testing/legislation-screenshot.png)
 
 - __Meet The Team - team.html__
 
   - This page will give users more information about the ecologists that work at Anlief. Academic and professional information will be provided alongside a picture of the ecologist to give a more personable feel.
   - This page will allow users to check ecologists credentials and will confirm the legitimacy and professionalism of the consultancy.
 
-    >![Meet The Team](.png)
+    >![Meet The Team](documentation/testing/meet-the-team-screenshot.png)
 
 - __Book Us - form.html__
 
   - This page will allow the user to contact Anlief to recieve a quotation/futher information about their project requirements. The user will be able specify what ecological service they believe they require, a brief description of the project they want to undertake and will also be able to upload files i.e., pictures of project site or blueprints. The user will be required to submit their full name, email address, select an ecological service, and consent to being contacted by Anlief. 
 
-    >![Book Us](.png)
+    >![Book Us](documentation/testing/form-screenshot.png)
 
 ### Features Left to Implement 
 
@@ -113,9 +124,13 @@ Am I Responsive - mockup img
 Bootstrap - layout and responsive components
 Dev Tools - testing and responsiveness
 
+***
+
 ## Testing
 
 To view all testing documentation, refer to [TESTING.md](TESTING.md).
+
+***
 
 ## Deployment
 
@@ -135,6 +150,8 @@ In order to make a local copy of this project, you can clone it. In your IDE Ter
 Alternatively, if using Gitpod, you can click below to create your own workspace using this repository.
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/antonia-white/anlief-ecological-consultancy)
+
+***
 
 ## Credits 
 
