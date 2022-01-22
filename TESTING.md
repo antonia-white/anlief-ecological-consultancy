@@ -8,6 +8,8 @@ You should also mention in this section any interesting bugs or problems you dis
 
 If this section grows too long, you may want to split it off into a separate file and link to it from here. -->
 
+***
+
 ## Validator Testing 
 
 At the time of testing (18:00 22/01/2022) [W3C's markup validator](https://validator.w3.org/) was down.
@@ -46,19 +48,27 @@ And so [FreeFormatter](https://www.freeformatter.com/html-validator.html) was us
   https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fantonia-white.github.io%2Fanlief-ecological-consultancy
     >![style.css](documentation/testing/w3c-css-validator-screenshot.png)
 
+***
+
 ## Unfixed Bugs 
 
-You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed. "There are no unfixed bugs that I am aware of" -- document any that I'm aware of add screenshot.
+To the best of my knowledge, there are no unfixed-bugs.
+
+***
 
 ## Browser Compatability
 
-Screenshots of finished product on different browsers, firefox chrome edge
+<!-- Screenshots of finished product on different browsers, firefox chrome edge -->
+
+***
 
 ## Responsivness
 
-Screenshots tested finished product at different sizes, mobile tablet desktop
+<!-- Screenshots tested finished product at different sizes, mobile tablet desktop -->
 
 ***
 
 ## User Story Testing
-copy bullets on README.md - underneath = screenshot from feature sections in readme i.e., combime these
+<!-- copy bullets on README.md - underneath = screenshot from feature sections in readme i.e., combime these -->
+
+***
