@@ -84,23 +84,23 @@ To the best of my knowledge, there are no unfixed-bugs.
 ## User Story Testing
 
 A target user of Anlief's website will want to:
-    1. navigate through the website and it's pages easily and fluidly
+1. navigate through the website and it's pages easily and fluidly
   >![Nav Bar](documentation/testing/navbar-screenshot.png)
-    2. know where Anlief is based
+2. know where Anlief is based
   >![Map of Location](documentation/testing/map-screenshot.png)
-    3. know more about the company and what their aims are
+3. know more about the company and what their aims are
   >![About](documentation/testing/about-section-screenshot.png)
-    4. visit an attractive website for an enjoyable experience
+4. visit an attractive website for an enjoyable experience
   >![Landing Page](documentation/testing/landing-page-img-screenshot.png)
-    5. know if Anlief is a respectable company
+5. know if Anlief is a respectable company
   >![Landing Page](documentation/testing/landing-page-img-screenshot.png)
-    6. have information that informs me of when and why I might need a ecologist
+6. have information that informs me of when and why I might need a ecologist
   >![Legislation](documentation/testing/legislation-screenshot.png)
-    7. be shown what ecological services anlief provide
+7. be shown what ecological services anlief provide
   >![Ecological Services](documentation/testing/ecology-services-screenshot.png)
-    8. be able to easily contact an ecologist
+8. be able to easily contact an ecologist
   >![Book Us](documentation/testing/form-screenshot.png)
-    9. see who works for Anlief and look at their credentials
+9. see who works for Anlief and look at their credentials
   >![Meet The Team](documentation/testing/meet-the-team-screenshot.png)
 
 ***
