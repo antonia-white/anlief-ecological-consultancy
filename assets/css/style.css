@@ -89,20 +89,6 @@ body {
     background-color: #fcfcfc;
 }
 
-/* Wrapper for page content to push down footer */
-#wrap {
-    min-height: 100%;
-    height: auto !important;
-    height: 100%;
-    /* Negative indent footer by it's height */
-    margin: 0 auto -30px;
-}
-
-/* Push footer down */
-#push {
-    height: 20px;
-}
-
 #footer {
     background-color: #f6fbee;
     color: rgba(0, 0, 0, .7);
@@ -161,8 +147,6 @@ label>span {
 }
 
 /* Media queries */
-
-/* Home Page */
 @media screen and (max-width: 500px) {
     #cover-text {
         left: 0px;
