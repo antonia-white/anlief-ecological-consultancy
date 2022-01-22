@@ -1,5 +1,5 @@
 html {
-    scroll-behavior: smooth;
+    scroll-behavior: smooth; 
 }
 
 #hero-image {
@@ -91,6 +91,7 @@ ul.text-center {
 html,
 body {
     height: 100%;
+    background-color: #fcfcfc;
 }
 
 /* Wrapper for page content to push down footer */
