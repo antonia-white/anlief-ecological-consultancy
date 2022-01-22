@@ -4,9 +4,7 @@ Anlief is a leading Welsh ecological consultancy with the goal of providing high
 
 This website is targetted towards businesses and individuals that require ecological assessment for works that may go ahead - this covers a wide variety of potential clients (from large-scale vegetation management buisnesses to landowners wanting a large Oak tree removed). This site will enable potential clients to contact Anlief to organise a survey or service. This easy to use and attractive website aims to encourage clients to reach out and enquire about ecological consultancy for their projects, we aim to make the sometimes confusing and daunting process of asking for ecologcial guidance straight-forward and easily accessible.
 
-![Responsive Mockup](https://antonia-white.github.io/anlief-ecological-consultancy/)
-Image source == http://ami.responsivedesign.is/# --> have screens display different pages
-make sure to credit
+![Responsive Mockup](documentation/testing/responsive-mockup.png)
 
 ***
 
@@ -24,18 +22,21 @@ make sure to credit
 ***
 
 ### Colour Scheme
-Explain colour scheme coolors.co --> website visualises colour scheme
+<!-- Explain colour scheme coolors.co website visualises colour scheme -->
 - No accessibility issues were returned when passing the colour scheme through the official [WebAIM](https://webaim.org/resources/contrastchecker/)
     >![webaim screenshot](documentation/testing/webaim-screenshot.png)
 
 ### Typography
-Explain fonts and font awesome. Put link to respective google fonts and link to font awesome
+<!-- Explain fonts and font awesome. Put link to respective google fonts and link to font awesome -->
 
 ***
 
 ### Wireframes
+- Home page wireframe in desktop view
 ![home page desktop wireframe](documentation/wireframes/anlief_desktop_wireframe_home.png)
+- Home page wireframe in mobile view
 ![home page mobile wireframe](documentation/wireframes/anlief_mobile_wireframe_home.png)
+- Wireframe of the internal link structure of the website
 ![internal link structure wireframe](documentation/wireframes/anlief_internal_link_structure_wireframe.png)
 
 ***
@@ -110,19 +111,22 @@ Explain fonts and font awesome. Put link to respective google fonts and link to 
   - This component would additionally be useful for users to search through the website for specific laws/legislations that may be applicable to their project and ecological obligations. 
   - At this stage in development it is not fundamental, but if there was going to be additional information added about wildlife and ecology in the UK (e.g., list and description of British Protected Species, why they're protected and how to meet legal ecological obligations as to not disturb these animals) then this feature would need to be implemented. Additionally, I do not currently have the skillset in JavaScript to confidently implement this feature.
 
+- Form submission
+  - Once I have learnt more about back-end development I can make Anlief's form submittable to a database by giving the form an action and method attribute.
+
 ***
 
 ## Technologies
-List bullet points all technologies used - link to expalin what theyre used for
-[HTML] (link to wiki) - markup lang
-CSS (same) - styles
-GitPod - cloud based iDE
-GitHub - secure online
-GitHub Pages (link deployed site)
-Git (https://git-scm.com/) - version control
-Am I Responsive - mockup img
-Bootstrap - layout and responsive components
-Dev Tools - testing and responsiveness
+- [HTML](https://en.wikipedia.org/wiki/HTML) was used as the markup language
+- [CSS](https://en.wikipedia.org/wiki/CSS) was used for styles
+- [GitPod](https://gitpod.io) was used as a cloud based iDE
+- [GitHub](https://github.com/) was used for an online repository
+- [GitHub Pages](https://antonia-white.github.io/anlief-ecological-consultancy/) was used for deployment
+- [Git](https://git-scm.com/) was used for version control
+- [Am I Responsive](http://ami.responsivedesign.is/) was used to generate a mockup image
+- [Bootstrap](https://getbootstrap.com/) was used for website layout and responsive components
+- [Dev Tools](https://en.wikipedia.org/wiki/Web_development_tools) was used for testing and responsiveness
+- [ResizePixel](https://www.resizepixel.com/) was used for resizing and cropping images
 
 ***
 
@@ -178,5 +182,6 @@ Alternatively, if using Gitpod, you can click below to create your own workspace
 - Media images used in the Meet The Team page were cropped to size with [Safeimagekit](https://safeimagekit.com/)
 - Media images used in the Ecological Services page were resized and cropped with [ResizePixel](https://www.resizepixel.com/)
 - The favicon image is from the open source site [Favicon.io](https://favicon.io/emoji-favicons/herb)
+- The responsive mockup was generated with [Am I Responsive Design](http://ami.responsivedesign.is/#)
 
 ***
